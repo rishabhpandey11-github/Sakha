@@ -1,3 +1,4 @@
 # Sakha
-/*This is my Git Repository*/
-Author - RIshabh Kumar Pandey
+<h1>This is my Git Repository</h1>
+<br>
+<h3>Author - RIshabh Kumar Pandey</h3>
